@@ -13,7 +13,7 @@ This folder contains the initial set of prompts used for generating analytic spe
 ## Final-Prompt
 This folder contains the refined and final version of the prompts that was developed after iterating on the initial prompts. [Final-Prompts Folder](./Final-Prompt)
 
-`Note:`This prompt was created at the time of [NLVIZ](https://www.nl-vizworkshop.com/) submission and may have undergone revisions in recent versions of NL4DV.
+`Note:`This prompt was created at the time of [NLVIZ](https://www.nl-vizworkshop.com/) submission and may have undergone revisions in recent versions of [NL4DV](https://nl4dv.github.io/nl4dv/).
 
 
 ## Preliminary-Evaluation
