@@ -13,6 +13,8 @@ This folder contains the initial set of prompts used for generating analytic spe
 ## Final-Prompt
 This folder contains the refined and final version of the prompts that was developed after iterating on the initial prompts. [Final-Prompts Folder](./Final-Prompt)
 
+**Note:**This prompt was created at the time of [NLVIZ](https://www.nl-vizworkshop.com/) submission and may have undergone revisions in recent versions of NL4DV.
+
 
 ## Preliminary-Evaluation
 To evaluate the performance of our NL4DV-LLM prompt in generating analytic specifications and visualizations, we conducted a preliminary evaluation using the NLVCorpus dataset (https://nlvcorpus.github.io/). This folder contains:
